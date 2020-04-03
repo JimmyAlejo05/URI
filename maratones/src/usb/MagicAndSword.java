@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Luis Felipe Velasco
+ * @author jimmy rios
  */
 public class MagicAndSword {
     static Scanner s = new Scanner(System.in);
