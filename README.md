@@ -33,8 +33,13 @@
 |exercise 5| [Logical Sequence 2 - 1145][PlMe] |
 |exercise 6| [Billetes y Monedas - 1021][PlGa] |
 |exercice 7| [Internship - 2533][PlMa]|
-|exercice 8| [Dijktra - 2653][Plmar]|
-|exercice 9| [Lu-Di-Oh! - 2542][Pllu]|
+|exercice 8| [combustible gastado]|
+|exercice 9| [Dijktra - 2653][Plmar]|
+|exercice 10| [Lu-Di-Oh! - 2542][Pllu]|
+|exercice 11| [Web Browser - 2635][Plwb]|
+|exercice 12|[magic and sword -2532][Plms]|
+|exercice 13|[Dominación Bacteriana - 2687][Pldb]|
+
 
 
 ### OTHER PROJECTS
@@ -79,6 +84,9 @@ sorting algorithms in python.
    [PlMa]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2533>
    [PlMar]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2653>
    [PlLu]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2542>
+   [Plwb]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2635>
+   [Plms]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2632>
+   [Pldb]:<https://www.urionlinejudge.com.br/repository/UOJ_2687_es.html>
    [Pltm]:<https://github.com/JimmyAlejo05/Time-s-pull>
    [Plmt]:<https://github.com/JimmyAlejo05/URI>
    [Plcd]: <https://github.com/JimmyAlejo05/Analysis-and-design-of-algorithms>
