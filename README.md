@@ -24,7 +24,7 @@
 [URI][Plmt] exercises solved in java
 ![PRO](https://1.bp.blogspot.com/-0KN9gvAJ_bU/VwGPkFtEP1I/AAAAAAAAAMc/xBPIvDbfgZgOigUHekupoGq9SdEuhZmuA/s1600/nic3b1o-con-pc-gif1.gif)
 
-| name  | README |
+| NUMBER  | NAME AND LINK |
 | ------ | ------ |
 |exercise 1| [Array 123 - 1534][PlDb] |
 |exercise 2| [Pomekons Battle - 2221][PlGh] |
@@ -50,7 +50,7 @@ NOTE: without using java classes.
 
 -Queue: it is used for team confrontations.
 
- ###  [Covid-19] [Plcd]
+ ###  [Covid-19][Plcd]
   
 It is a project where I use data persistence, and java classes to call the Likedlist, to see the number of people infected and killed by the coronavirus in Latin America.
 
