@@ -75,6 +75,38 @@ sorting algorithms in python.
 |Gnome|
 |comb sort|
 
+ 
+### [Recursion][Plre]
+
+a work with exercises in recursion and iterative in java
+
+-1 Algorithm that calculates the factorial of a number.
+
+-2. Algorithm that calculates a number of the Fibonacci series.
+
+-3. Algorithm that allows you to invert a number.
+
+-4. Algorithm that allows adding the elements of a vector.
+
+-5. Algorithm that shows the smallest number of a vector.
+
+-6. Algorithm that allows adding, subtracting, multiplying, dividing and calculating the power of two natural numbers.
+
+-7. Algorithm that allows searching for a String element in an N * N array
+
+these points were only done recursively.
+
+-8 Palindrome
+
+-9 Permutations
+
+-10 Song without vowels
+
+-11 Words repeated in a poem
+
+-12 The Tower of Hanoi
+
+
    [PlDb]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1534>
    [PlGh]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2221>
    [PlGd]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2203>
@@ -91,6 +123,7 @@ sorting algorithms in python.
    [Plmt]:<https://github.com/JimmyAlejo05/URI>
    [Plcd]: <https://github.com/JimmyAlejo05/Analysis-and-design-of-algorithms>
    [Plao]: <https://github.com/JimmyAlejo05/data_ordering>
+   [Plre]:<https://github.com/JimmyAlejo05/recursividad>
    
   ### thanks for reading all my information ❤
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
